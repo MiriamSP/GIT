@@ -38,5 +38,8 @@ public class User {
     public String getFamilyName() {
         return this.familyName;
     }
+    public String getKing() {
+        return "Felipe";
+    }
 
 }
