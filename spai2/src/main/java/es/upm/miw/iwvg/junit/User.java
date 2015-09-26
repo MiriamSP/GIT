@@ -41,7 +41,5 @@ public class User {
     public String getKing() {
         return "Felipe iv  & le";
     }
-    public String getQueen() {
-        return "le";
-    }
+
 }
