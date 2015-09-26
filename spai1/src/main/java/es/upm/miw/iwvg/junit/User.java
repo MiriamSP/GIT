@@ -50,4 +50,7 @@ public class User {
     public String getKinder2() {
         return "l0dfe";
     }
+    public String getKinder3() {
+        return "l0dfe";
+    }
 }
