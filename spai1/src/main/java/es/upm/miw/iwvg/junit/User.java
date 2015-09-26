@@ -47,4 +47,7 @@ public class User {
     public String getKinder() {
         return "l0e";
     }
+    public String getKinder2() {
+        return "l0e";
+    }
 }
