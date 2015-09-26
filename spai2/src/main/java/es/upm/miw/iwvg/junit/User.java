@@ -41,16 +41,5 @@ public class User {
     public String getKing() {
         return "Felipe iv  & le";
     }
-    public String getQueen() {
-        return "le";
-    }
-    public String getKinder() {
-        return "l0e";
-    }
-    public String getKinder2() {
-        return "l0dfe";
-    }
-    public String getKinder3() {
-        return "l0dfe";
-    }
+
 }
