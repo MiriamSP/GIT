@@ -48,6 +48,6 @@ public class User {
         return "l0e";
     }
     public String getKinder2() {
-        return "l0e";
+        return "l0dfe";
     }
 }
