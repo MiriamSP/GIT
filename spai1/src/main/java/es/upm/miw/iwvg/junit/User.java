@@ -44,4 +44,7 @@ public class User {
     public String getQueen() {
         return "le";
     }
+    public String getKinder() {
+        return "l0e";
+    }
 }
